@@ -1,1 +1,0 @@
-# proyek-array-C-C2583207035
