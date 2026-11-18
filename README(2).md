@@ -83,7 +83,8 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Hasil pengujian:** Produk Seblak berhasil ditambahkan dengan harga 15000 dan stok 20.
 
-![Skenario 1 - Tambah Produk](screenshots/01-tambah-produk.png)
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 19 30 57" src="https://github.com/user-attachments/assets/5fd4ccf5-0d6e-4f94-b5c4-774f993a1ceb" />
+
 
 ### Skenario 2: Transaksi Penjualan
 
@@ -96,7 +97,8 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Hasil pengujian:** Es Teh Manis 1 × 4000 = 4000 dan Gorengan 1 × 2000 = 2000. Total pembayaran adalah 6000.
 
-![Skenario 2 - Transaksi](screenshots/02-transaksi.png)
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 19 32 37" src="https://github.com/user-attachments/assets/0027c688-dc61-448d-960b-13913e9e4340" />
+
 
 ### Skenario 3: Pembaruan Stok
 
@@ -111,9 +113,10 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Screenshot yang perlu dilengkapi:** Ambil dua gambar terpisah dan simpan dengan nama berikut.
 
-![Skenario 3a - Stok Sebelum](screenshots/03a-stok-sebelum.png)
+<img width="1366" height="768" alt="WhatsApp Image 2026-11-16 at 19 33 17" src="https://github.com/user-attachments/assets/66dbba43-3c17-4abd-bc67-4b6f6c7e6d13" />
 
-![Skenario 3b - Stok Sesudah](screenshots/03b-stok-sesudah.png)
+
+
 
 ### Skenario 4: Stok Tidak Cukup
 
@@ -126,11 +129,12 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Hasil pengujian:** Program menolak pembelian karena stok Air Mineral hanya 4. Transaksi tidak dilanjutkan.
 
-![Skenario 4a - Penolakan karena Stok Tidak Cukup](screenshots/04a-stok-tidak-cukup.png)
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/c761ff5c-0c9f-44da-aa9a-5d41b7177dc6" />
+
 
 **Screenshot tambahan yang perlu dilengkapi:** Setelah transaksi ditolak, pilih menu `1` dan screenshot daftar produk untuk membuktikan stok Air Mineral tetap 4.
 
-![Skenario 4b - Stok Tetap](screenshots/04b-stok-tetap.png)
+
 
 ### Skenario 5: Laporan Penjualan
 
@@ -141,7 +145,8 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Hasil pengujian:** Total unit terjual adalah 2 dan total pendapatan adalah 6000. Es Teh Manis dan Gorengan masing-masing terjual 1 unit.
 
-![Skenario 5 - Laporan Penjualan](screenshots/05-laporan.png)
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/27ac68f4-78eb-4d2b-92e4-db52f79ffeae" />
+
 
 ### Skenario 6: Pengurutan Produk
 
@@ -150,7 +155,8 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 2. Pilih pilihan `1. Harga termurah`.
 3. Periksa apakah produk tersusun dari harga paling murah hingga paling mahal.
 
-![Skenario 6a - Urut Berdasarkan Harga](screenshots/06a-urut-harga.png)
+<img width="1366" height="768" alt="6" src="https://github.com/user-attachments/assets/d0489f30-3f68-4c65-ab21-9fc9d8b019b5" />
+
 
 **Langkah pengujian berdasarkan jumlah terjual:**
 1. Pilih menu `7. Urutkan Produk` kembali.
@@ -159,7 +165,7 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Hasil pengujian:** Pengurutan harga dimulai dari Gorengan (2000) hingga Seblak (15000). Berdasarkan jumlah terjual, Es Teh Manis dan Gorengan berada di urutan teratas karena masing-masing terjual 1 unit.
 
-![Skenario 6b - Urut Berdasarkan Jumlah Terjual](screenshots/06b-urut-terjual.png)
+
 
 ### Skenario 7: Pencarian Produk dan Stok Menipis
 
@@ -174,7 +180,8 @@ Screenshot disimpan di folder `screenshots`. Jalur gambar di bawah menggunakan a
 
 **Hasil pengujian:** Produk Es Teh Manis berhasil ditemukan. Program juga menampilkan peringatan bahwa stok Air Mineral tersisa 4.
 
-![Skenario 7 - Pencarian Produk dan Stok Menipis](screenshots/07-pencarian-dan-stok-menipis.png)
+<img width="1366" height="768" alt="7" src="https://github.com/user-attachments/assets/8e17d27f-9efa-4ca6-aa3b-b1ff971d6ab8" />
+
 
 ## 7. Struktur Folder Proyek
 
